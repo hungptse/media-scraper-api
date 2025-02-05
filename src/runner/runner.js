@@ -18,7 +18,6 @@ let driver = new Builder()
         "--disable-gpu",
         "--no-sandbox",
         "--disable-setuid-sandbox",
-        "--remote-debugging-port=9222",
         "--disable-dev-shm-using",
         "--disable-extensions",
         "--remote-debugging-pipe",
